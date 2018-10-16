@@ -1,5 +1,5 @@
 function myFunction() {
-    var string = "";
+    var string = "Twice Baked Irish Potato<br/>";
     // put your username after benpearson2003. remember the quotes and comma
     var contributors = [
         "benpearson2003",
