@@ -2,6 +2,7 @@ function myFunction() {
     var string = "";
     // put your username after benpearson2003. remember the quotes and comma
     var contributors = [
+        "benpearson2003",
         "franklloydwright1967"
     ];
     var lower = false;
